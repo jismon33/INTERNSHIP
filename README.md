@@ -1,1 +1,1 @@
-# INTERNSHIP
+# Full Stack Web Development Internship
